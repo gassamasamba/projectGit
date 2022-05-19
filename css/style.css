@@ -12,3 +12,7 @@ img {
     width: 50%;
     max-width: 45%;
 }
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
