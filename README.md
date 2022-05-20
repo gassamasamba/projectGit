@@ -4,4 +4,5 @@ GitHub est un depot a distance.
 permet de stocker le depot local.
 Une branche est une copie du projet.
 On peut creer plusieurs branches.
+Creation d'une branche en locale.
 Author Gassama.
